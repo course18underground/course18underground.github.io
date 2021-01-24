@@ -15,4 +15,4 @@ Our goal is to serve undergrads and faculty in course 18 by compiling and record
 We hope that students will find this project useful when registering for math subjects and recitation sections, and that faculty will consider the feedback detailed here in planning future terms.
 
 
-**The Course 18 Underground is in its pilot stages as of Fall 2020, and we hope to expand course offerings soon! [Please see the FAQ page if you have any questions about this project.](/FAQ/)**
+**The Course 18 Underground is in its pilot stages as of Fall 2020, and we hope to expand course offerings soon! Please see the [FAQ page](/FAQ) if you have any questions about this project.**
