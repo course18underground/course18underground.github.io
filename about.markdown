@@ -2,7 +2,7 @@
 layout: page
 title: FAQ
 permalink: /FAQ/
-navv_order: 2
+nav_order: 2
 ---
 
 # Frequently Asked Questions
