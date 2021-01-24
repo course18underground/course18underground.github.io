@@ -1,6 +1,8 @@
 ---
 layout: home
+title: Home
 permalink: /
+nav_order: 1
 ---
 
 # Welcome to the **Course 18 Underground**! 
