@@ -63,4 +63,4 @@ nav_order: 1
 
 ## Advice to Future Students
 > 1. *"I think it’s better for them to **practice proof-writing before taking this class**, or **at least have an idea of how to write rigorous proofs**. Also, they should ask themselves, 'Do I really want to learn how real numbers are constructed, and calculus is formed?'' If yes, then they should take the class."*
- 2. *"**It is very rigorous!** It can be a bit annoying, but it is a necessary challenge.*
+ 2. *"**It is very rigorous!** It can be a bit annoying, but it is a necessary challenge."*
