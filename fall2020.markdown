@@ -13,8 +13,8 @@ Click on a course number in the table below to see detailed information and stud
 
 | Number         | Title                                   | Level      |  Instructor          | Total Hours            |
 |:---------------|:----------------------------------------|:-----------|----------------------|------------------------|
-| [**18.701**](/fall2020_701.html)         | **Algebra I**                   | U          | Bjorn Poonen         | 11.0                   |
 | [**18.100B**](/fall2020_100B.html)        | **Analysis I**                   | U          | Tobias Colding        | 8.9                  |
 | [**18.600**](/fall2020_600.html)          | **Probability and Random Variables** | U     | Jonathan Adam Kelner | 7.5 |
+| [**18.701**](/fall2020_701.html)         | **Algebra I**                   | U          | Bjorn Poonen         | 11.0                   |
 
 *For a PDF version of this semester's underground guide, click **here** (link coming soon!).* 
