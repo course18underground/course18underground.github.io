@@ -2,9 +2,12 @@
 layout: page
 title: Fall 2020
 permalink: /fall2020/
+has_children: true
 nav_order: 2
 ---
 
 # Fall 2020 
----
-**Check back in soon for data from Fall 2020!**
+
+Click here for the PDF format of the underground guide.
+
+{: .fs-6 .fw-300 }

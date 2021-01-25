@@ -1,0 +1,66 @@
+---
+layout: default
+title: '18.100B'
+parent: Fall 2020
+nav_order: 1
+---
+
+# 18.100B
+{: .no_toc }
+
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+## Course Info
+
+|:----------------------|:-------------------------------------------------------------------|
+| Class Size            | 52                                                                 |
+| Hours/Week            | 8.9 (31 responses)                                                 | 
+| Instructors           | Tobias Calding (Lecturer), Katie Gravel (UA), Andrew Y. Lin (UA)   |
+
+## Realistic Prerequisites
+* **Mathematical maturity**: some prior proof-writing experience (perhaps via the IAP proofs workshop or another course with a focus on proof-writing) is *highly recommended*, as the learning curve is quite steep.
+* **Knowledge of calculus in a single variable is essential** (perhaps also calculus in several variables, but this is more of a soft prereq).
+
+## Subject Matter
+* **Theoretical, broad and deep, abstract**. Could have been even more abstract, though -- tended to focus mainly on the real line rather than higher-dimensional reals or a more general metric space.
+* **The skills gained** (i.e. formulating proofs with a high level of rigor) **might be more important than much of the subject matter itself**.
+
+## Course Staff
+* **Approachable**, very open to questions, and **accommodating** of extenuating circumstances.
+* Both the professor and the TAs were caring and helpful.
+
+## Lectures
+* Many students **learned the most from the problem sets and from the TA’s office hours**, rather than from lectures.
+* Students tended to use the textbook as a **secondary resource** when confused about parts of lectures.
+* Lectures were engaging and had good examples; the professor addressed all student questions.
+
+## Problem Sets
+* **Challenging, but generally doable.**
+* Problems tended to be straightforward rather than requiring creativity.
+* Lectures generally prepared students well for the psets.
+
+## Exams
+* Many students found timing to be an issue.
+* The problems were **on par with the psets difficulty-wise**.
+* **Solving psets and knowing critical facts from lecture was helpful**.
+* Many students found the exams **stressful** and **discouraging**, primarily due to a mismatch of difficulty level with time allotted.
+
+## Resources
+* Two textbooks (Rudin and TBB); it was nice to have two perspectives on the material.
+* Some students found **Rudin to be much more useful than class**.
+* It would’ve been nice to have lecture notes posted.
+
+## Grading
+* Grade cutoffs were **not publicized**.
+* Students generally felt that grading was **fair** and **consistent**.
+* "The professor seems to expect most people to get Bs and As."
+
+## Advice to Future Students
+> 1. *"I think it’s better for them to **practice proof-writing before taking this class**, or **at least have an idea of how to write rigorous proofs**. Also, they should ask themselves, 'Do I really want to learn how real numbers are constructed, and calculus is formed?'' If yes, then they should take the class."*
+ 2. *"**It is very rigorous!** It can be a bit annoying, but it is a necessary challenge.*

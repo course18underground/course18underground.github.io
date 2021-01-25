@@ -1,0 +1,68 @@
+---
+layout: default
+title: '18.701'
+parent: Fall 2020
+nav_order: 3
+---
+
+# 18.701
+{: .no_toc }
+
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+## Course Info
+
+|:----------------------|:-----------------------------------------------|
+| Class Size            | 118                                            |
+| Hours/Week            | 11.0 (61 responses)                            | 
+| Instructors           | Bjorn Poonen (Lecturer), Merrick H. Cai (UA)   |
+
+
+## Realistic Prerequisites
+* **Proof experience** and **mathematical maturity** are **extremely important**. This is where the 18.100B soft prereq is most useful.
+* It is helpful to have **some background in linear algebra** (18.06 material).
+
+## Subject Matter
+* Students thought the content was very cool.
+* Course content was **very theoretical** and **abstract**, covering fundamentals of algebra and going deep into proofs.
+* Students wanted more applications out of the class.
+
+## Course Staff
+* Course staff was very **approachable**, **understanding**, and **helpful**.
+* Professor Poonen and the TA’s showed legitimate interest in student’s questions.
+
+## Lectures
+* The subject lectures covered all learning objectives.
+* Many students, however, felt discomfort asking questions live during lectures.
+* The pace of the class was marked in between “just right” and “too fast”.
+
+## Problem Sets
+* Many were content with the problem set and the rigor of it. 
+* Many felt comfortable asking questions on the problem set to the TAs.
+* Students generally found the psets **fun**, **challenging**, and **interesting**.
+* Many found **collaboration absolutely necessary**.
+
+## Exams
+* Instead of exams, there were weekly open-book/open-Google quizzes. Many students found this format less stressful than traditional exams.
+* The quizzes were **fair** and **covered the materials learned in class**.
+
+## Resources
+* The textbook by Artin is great, and actually reading it helped a lot.
+* Math Stack Exchange and Andrew Lin’s 18.701 notes online also helped some.
+
+## Grading
+* Grading was **fair** and **transparent**, and some even thought it was **pretty generous**.
+* 85% of the grade was from psets, and 15% was from the quizzes.
+* 90% guaranteed an A- or above, 80% a B-, 70% a C-.
+
+## Advice to Future Students
+> 1. *"textbook, pretty spicy"*
+  2. *"proofs. **HAVE A PSET PARTNER**"*
+  3. *"**Read the textbook**, for sure. Also, watching the first couple of lectures during Summer before the course is super helpful since **this class goes quite fast** (coming from someone who has some proof experience, but did not take 100A/100B)."*
+  4. *"Work on psets with other students, absolutely. It’s **easy to make false assumptions or errors in logical reasoning, and discussing the material of the pset** (not just the questions themselves, but even facts that are 'unrelated' to the questions) **with others can illuminate lots of these mental lapses**."*
