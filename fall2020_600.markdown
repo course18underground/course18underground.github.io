@@ -64,3 +64,6 @@ nav_order: 2
 > 1. ***"Don't underestimate the class based on the first few weeks.** The class goes from 0-100. Don't get complacent."*
 2. ***"Familiarity with writing proofs did come in handy and no guidance was provided in that respect**, so it helped to have taken 6.042 before. Reading a chunk of the optional textbook definitely helped lower the mental workload when covering that material."*
 3. ***"Make sure you understand probability, you will see it everywhere."***
+
+## Syllabus
+Click [**here**](/assets/files/600_Syllabus_Fall2020.pdf) for a PDF of this course's syllabus.

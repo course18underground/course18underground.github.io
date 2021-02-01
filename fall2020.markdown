@@ -17,6 +17,6 @@ Click on a course number in the table below to see detailed information and stud
 | [**18.600**](/fall2020_600.html)          | **Probability and Random Variables** | U     | Jonathan Adam Kelner | 7.5 |
 | [**18.701**](/fall2020_701.html)         | **Algebra I**                   | U          | Bjorn Poonen         | 11.0                   |
 
-*For a PDF version of this semester's underground guide, click **here** (link coming soon!).* 
+*For a PDF version of this semester's underground guide, click [**here**](/assets/files/Underground_Guide_Fall2020.pdf).* 
 
 Please note that the 2020-2021 year was unusual due to the coronavirus pandemic. The information here may not reflect normal years, since many instructors were forced to change lecture and exam formats, grading schemes, and other aspects of math instruction.
