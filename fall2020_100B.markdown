@@ -68,5 +68,3 @@ nav_order: 1
 
 ## Syllabus
 Click [**here**](/assets/files/100B_Syllabus_Fall2020.pdf) for a PDF of this course's syllabus.
-
-## Hello World
