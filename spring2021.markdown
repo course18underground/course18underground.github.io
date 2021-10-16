@@ -12,7 +12,7 @@ has_toc: false
 Click on a course number in the table below to see detailed information and student feedback.
 
 | Number                                   | Title           | Level | Instructor        | Total Hours |
-| [**18.02**](/18.02-spring-2021.html)     | **Calculus II** | U     | William Minicozzi | 9.4         |
+| [**18.02**](/18.02-spring-2021.html)     | **Calculus II** | G     | William Minicozzi | 9.4         |
 | [**18.032**](/18.032-spring-2021.html) |
 | [**18.05**](/18.05-spring-2021.html) |
 | [**18.06**](/18.06-spring-2021.html) |
