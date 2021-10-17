@@ -22,16 +22,14 @@ Click on a course number in the table below to see detailed information and stud
 | [**18.100B**](/18.100B-spring-2021html)  | **Real Analysis**                                                            | U     | Pei-Ken Hung                                     | 9.3         |
 | [**18.100P**](/18.100P-spring-2021html)  | **Real Analysis**                                                            | U     | Benjamin Landon, Malcah Effron                   | 11.5        |
 | [**18.102**](/18.102-spring-2021.html)   | **Introduction to Functional Analysis**                                      | U     | Casey Rodriguez                                                |
-| [**18.200**](/18.200-spring-2021.html)   | **Principles of Discrete Applied Mathematics**                               | U     | Diego Fernando Cifuentes Pardo, Michael Goemans, 
-                                                                                                                                    Susan Ruff, Malcah Effron                        | 9.4         |
+| [**18.200**](/18.200-spring-2021.html)   | **Principles of Discrete Applied Mathematics**                               | U     | Diego Fernando Cifuentes Pardo, Michael Goemans, Susan Ruff, Malcah Effron                        | 9.4         |
 | [**18.204**](/18.204-spring-2021.html)   | **Undergraduate Seminar in Discrete Mathematics**                            | U     | Souvik Dhara, Julia Gaudio                       | 7.4         |
 | [**18.212**](/18.212-spring-2021.html)   | **Algebraic Combinatorics**                                                  | U     | Alexander Postnikov                              | 6.4         |
 | [**18.218**](/18.218-spring-2021.html)   | **Topics in Combinatorics**                                                  | U     | Dor Minzer                                       | 7.6         |
 | [**18.300**](/18.300-spring-2021.html)   | **Principles of Continuum Applied Mathematics**                              | U     | Matthew Durey                                    | 9.5         |
 | [**18.330**](/18.330-spring-2021.html)   | **Introduction to Numerical Analysis**                                       | U     | David Sanders                                    | 9.8         | 
 | [**18.400**](/18.400-spring-2021.html)   | **Computability and Complexity Theory**                                      | U     | Ronitt Rubinfeld                                 | 8.8         |
-| [**18.410**](/18.410-spring-2021.html)   | **Design and Analysis Algorithms**                                           | U     | Srinivas Devadas, Jonathan Adam Kelner, 
-                                                                                                                                    Virginia Williams                                | 11.2        | 
+| [**18.410**](/18.410-spring-2021.html)   | **Design and Analysis Algorithms**                                           | U     | Srinivas Devadas, Jonathan Adam Kelner, Virginia Williams                                | 11.2        | 
 | [**18.453**](/18.453-spring-2021.html)   | **Combinatorial Optimization**                                               | U     | William Franks                                   | 7.1         |
 | [**18.600**](/18.600-spring-2021.html)   | **Probability and Random Variables**                                         | U     | Scott Roger Sheffield                            | 9.3         |
 | [**18.615**](/18.615-spring-2021.html)   | **Introduction to Stochastic Processes**                                     | G     | Peter J. Kempthorne                              | 8.3         | 
@@ -39,8 +37,7 @@ Click on a course number in the table below to see detailed information and stud
 | [**18.702**](/18.702-spring-2021.html)   | **Algebra II**                                                               | U     | Michael Artin                                    | 9.2         | 
 | [**18.726**](/18.726-spring-2021.html)   | **Algebraic Geometry II**                                                    | G     | Davesh Maulik                                    | 12.4        |
 | [**18.783**](/18.783-spring-2021.html)   | **Elliptic Curves**                                                          | U     | Andrew Sutherland                                | 11.1        | 
-| [**18.821**](/18.821-spring-2021.html)   | **Project Laboratory in Mathematics**                                        | U     | Zhiwei Yun, Iving Dai, Chun Hong Lo, Susan Ruff, 
-                                                                                                                                    Malcah Effron                                    | 8.8         |
+| [**18.821**](/18.821-spring-2021.html)   | **Project Laboratory in Mathematics**                                        | U     | Zhiwei Yun, Iving Dai, Chun Hong Lo, Susan Ruff, Malcah Effron                                    | 8.8         |
 | [**18.901**](/18.901-spring-2021.html)   | **Introduction to Topology**                                                 | U     | George Lusztig                                   | 7.6         |
 | [**18.906**](/18.906-spring-2021.html)   | **Algebraic Topology II**                                                    | G     | Paul Alfred Seidel                               | 9.9         |
 
