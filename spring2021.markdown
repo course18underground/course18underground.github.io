@@ -18,9 +18,9 @@ Click on a course number in the table below to see detailed information and stud
 | [**18.06**](/18.06-spring-2021.html)     | **Linear Algebra**                                                           | U     | Andrei Negut                                     | 9.0         |          
 | [**18.062**](/18.062-spring-2021.html)   | **Mathematics for Computer Science**                                         | U     | Zachary Abel                                     | 10.6        |
 | [**18.065**](/18.065-spring-2021.html)   | **Matrix Methods in Data Analysis, Signal Processing, and Machine Learning** | U     | Gilbert Strang                                   | 6.7         |
-| [**18.100A**](/18.100A-spring-2021html)  | **Real Analysis**                                                            | U     | Xueying Yu                                       | 11.3        |
-| [**18.100B**](/18.100B-spring-2021html)  | **Real Analysis**                                                            | U     | Pei-Ken Hung                                     | 9.3         |
-| [**18.100P**](/18.100P-spring-2021html)  | **Real Analysis**                                                            | U     | Benjamin Landon, Malcah Effron                   | 11.5        |
+| [**18.100A**](/18.100A-spring-2021.html)  | **Real Analysis**                                                            | U     | Xueying Yu                                       | 11.3        |
+| [**18.100B**](/18.100B-spring-2021.html)  | **Real Analysis**                                                            | U     | Pei-Ken Hung                                     | 9.3         |
+| [**18.100P**](/18.100P-spring-2021.html)  | **Real Analysis**                                                            | U     | Benjamin Landon, Malcah Effron                   | 11.5        |
 | [**18.102**](/18.102-spring-2021.html)   | **Introduction to Functional Analysis**                                      | U     | Casey Rodriguez                                   | 9.3         |
 | [**18.200**](/18.200-spring-2021.html)   | **Principles of Discrete Applied Mathematics**                               | U     | Diego Fernando Cifuentes Pardo, Michael Goemans, Susan Ruff, Malcah Effron                        | 9.4         |
 | [**18.204**](/18.204-spring-2021.html)   | **Undergraduate Seminar in Discrete Mathematics**                            | U     | Souvik Dhara, Julia Gaudio                       | 7.4         |
