@@ -1,0 +1,58 @@
+---
+layout: page
+title: Fall 2021
+permalink: /fall2021/
+has_children: true
+nav_order: 2
+has_toc: false
+---
+
+# Fall 2021
+
+Click on a course number in the table below to see detailed information and student feedback.
+
+| Number                                   | Title                                                                        | Level | Instructor                                       | Total Hours |
+| [**18.0002**](/18.02-fall-2021.html)     | **Introduction to Computational Science and Engineering**                    | U     | Laurent Demanet, Youssef Marzouk                 | 9.4         |
+| [**18.01**](/18.01-fall-2021.html)       | **Calculus**                                                                 | U     | Larry Guth                                       | 7.9         |
+| [**18.02**](/18.02-fall-2021.html)       | **Calculus**                                                                 | U     | Bjorn Poonen                                     | 10.2        |
+| [**18.02A**](/18.02A-fall-2021.html)     | **Calculus**                                                                 | U     | John Bush                                        | 9.0         |          
+| [**18.022**](/18.022-fall-2021.html)     | **Calculus**                                                                 | U     | Alexei Borodin                                   | 11.3        |
+| [**18.03**](/18.03-fall-2021.html)       | **Differential Equations**                                                   | U     | Jorn Dunkel                                      | 10.6        |
+| [**18.06**](/18.06-fall-2021.html)       | **Linear Algebra**                                                           | U     | Nike Sun                                         | 6.7         |
+| [**18.061**](/18.061-fall-2021.html)     | **Linear Algebra and Optimization**                                          | U     | Ankur Moitra, Pablo Parrilo                      | 6.7         |
+| [**18.085**](/18.085-fall-2021.html)     | **Computational Science and Engineering I**                                  | U     | Matthew Durey                                    | 6.7         |
+| [**18.100B**](/18.100B-fall-2021html)    | **Real Analysis**                                                            | U     | Paul Seidel                                      | 9.3         |
+| [**18.101**](/18.101-fall-2021.html)     | **Analysis and Manifolds**                                                   | U     | Richard Melrose                                  | 9.3         |
+| [**18.112**](/18.112-fall-2021.html)     | **Functions of a Complex Variable**                                          | U     | Alexei Borodin                                   | 9.3         |
+| [**18.155**](/18.155-fall-2021.html)     | **Differential Analysis I**                                                  | U     | Semyon Dyatlov                                   | 9.4         |
+| [**18.225**](/18.225-fall-2021.html)     | **Graph Theory and Additive Combinatorics**                                  | G     | Yufei Zhao                                       | 7.4         |
+| [**18.404**](/18.404-fall-2021.html)     | **Theory of Computation**                                                    | U     | Michael Sipser                                   | 8.8         |
+| [**18.435**](/18.435-fall-2021.html)     | **Quantum Computation**                                                      | G     | Peter Shor                                       | 11.2        | 
+| [**18.510**](/18.510-fall-2021.html)     | **Introduction to Mathematical Logic and Set Theory**                        | U     | Henry Cohn                                       | 7.1         |
+| [**18.600**](/18.600-fall-2021.html)     | **Probability and Random Variables**                                         | U     | Jonathan Kelner                                  | 9.3         |
+| [**18.650**](/18.650-fall-2021.html)     | **Fundamentals of Statistics**                                               | U     | Elchanan Mossel                                  | 8.1         | 
+| [**18.675**](/18.675-fall-2021.html)     | **Theory of Probability**                                                    | G     | Yair Shenfeld                                    | 8.1         | 
+| [**18.701**](/18.701-fall-2021.html)     | **Algebra I**                                                                | U     | Davesh Maulik                                    | 9.2         | 
+| [**18.901**](/18.901-fall-2021.html)     | **Introduction to Topology**                                                 | U     | Anthony Conway                                   | 12.4        |
+| [**18.905**](/18.905-fall-2021.html)     | **Algebraic Topology I**                                                     | G     | Jeremy Hahn                                      | 11.1        | 
+| [**18.965**](/18.965-fall-2021.html)     | **Geometry of Manifolds I**                                                  | G     | William Minicozzi                                | 8.8         |
+| [**18.994**](/18.994-fall-2021.html)     | **Seminar in Geometry**                                                      | U     | Tomasz Mrowka                                    | 7.6         |
+
+<!-- | Number                                   | Title          | Level | Instructor     | Total Hours |
+| :--------------------------------------- | :------------- | :---- | -------------- | ----------- |
+| [**18.100B**](/18.100B-spring-2021.html) | **Analysis I** | U     | Tobias Colding | 8.9         |
+| [**18.100B**](/18.100B-spring-2021.html) | **Analysis I** | U     | Tobias Colding | 8.9         |
+| [**18.100B**](/18.100B-spring-2021.html) | **Analysis I** | U     | Tobias Colding | 8.9         |
+| [**18.100B**](/18.100B-spring-2021.html) | **Analysis I** | U     | Tobias Colding | 8.9         |
+| [**18.100B**](/18.100B-spring-2021.html) | **Analysis I** | U     | Tobias Colding | 8.9         |
+| [**18.100B**](/18.100B-spring-2021.html) | **Analysis I** | U     | Tobias Colding | 8.9         |
+| [**18.100B**](/18.100B-spring-2021.html) | **Analysis I** | U     | Tobias Colding | 8.9         |
+| [**18.100B**](/18.100B-spring-2021.html) | **Analysis I** | U     | Tobias Colding | 8.9         |
+| [**18.100B**](/18.100B-spring-2021.html) | **Analysis I** | U     | Tobias Colding | 8.9         |
+| [**18.100B**](/18.100B-spring-2021.html) | **Analysis I** | U     | Tobias Colding | 8.9         |
+| [**18.100B**](/18.100B-spring-2021.html) | **Analysis I** | U     | Tobias Colding | 8.9         |
+| [**18.100B**](/18.100B-spring-2021.html) | **Analysis I** | U     | Tobias Colding | 8.9         | -->
+
+<!-- _For a PDF version of this semester's underground guide, click [**here**](/assets/files/Underground_Guide_Fall2020.pdf)._ -->
+
+Please note that the 2020-2021 year was unusual due to the coronavirus pandemic. The information here may not reflect normal years, since many instructors were forced to change lecture and exam formats, grading schemes, and other aspects of math instruction.
