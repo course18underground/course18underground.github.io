@@ -28,7 +28,6 @@ github_username:  course18underground
 
 
 # Build settings
-theme: minimal
 plugins:
   - jekyll-feed
   - jekyll-remote_theme
