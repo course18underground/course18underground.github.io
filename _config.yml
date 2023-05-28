@@ -28,7 +28,7 @@ github_username:  course18underground
 
 
 # Build settings
-theme: just-the-docs
+theme: minimal
 plugins:
   - jekyll-feed
 
