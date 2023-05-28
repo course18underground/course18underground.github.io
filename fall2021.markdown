@@ -19,7 +19,7 @@ Click on a course number in the table below to see detailed information and stud
 | [**18.022**](/18.022-fall-2021.html)     | **Calculus**                                                                 | U     | Alexei Borodin                                   | 9.8         |
 | [**18.03**](/18.03-fall-2021.html)       | **Differential Equations**                                                   | U     | Jorn Dunkel                                      | 9.5         |
 | [**18.06**](/18.06-fall-2021.html)       | **Linear Algebra**                                                           | U     | Nike Sun                                         | 9.4         |
-| [**18.061**](/18.061-fall-2021.html)     | **Linear Algebra and Optimization**                                          | U     | Ankur Moitra, Pablo Parrilo                      | N/A         |
+| [**18.061**](/18.061-fall-2021.html)     | **Linear Algebra and Optimization**                                          | U     | Ankur Moitra, Pablo Parrilo                      | 11.2         |
 | [**18.085**](/18.085-fall-2021.html)     | **Computational Science and Engineering I**                                  | U     | Matthew Durey                                    | 13.4        |
 | [**18.100B**](/18.100B-fall-2021html)    | **Real Analysis**                                                            | U     | Paul Seidel                                      | 8.6         |
 | [**18.101**](/18.101-fall-2021.html)     | **Analysis and Manifolds**                                                   | U     | Richard Melrose                                  | 10.4        |
