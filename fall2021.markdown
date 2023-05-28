@@ -24,7 +24,7 @@ Click on a course number in the table below to see detailed information and stud
 | [**18.100B**](/18.100B-fall-2021html)    | **Real Analysis**                                                            | U     | Paul Seidel                                      | 8.6         |
 | [**18.101**](/18.101-fall-2021.html)     | **Analysis and Manifolds**                                                   | U     | Richard Melrose                                  | 10.4        |
 | [**18.112**](/18.112-fall-2021.html)     | **Functions of a Complex Variable**                                          | U     | Alexei Borodin                                   | 10.6         |
-| [**18.155**](/18.155-fall-2021.html)     | **Differential Analysis I**                                                  | U     | Semyon Dyatlov                                   | 9.5         |
+| [**18.155**](/18.155-fall-2021.html)     | **Differential Analysis I**                                                  | G     | Semyon Dyatlov                                   | 9.5         |
 | [**18.225**](/18.225-fall-2021.html)     | **Graph Theory and Additive Combinatorics**                                  | G     | Yufei Zhao                                       | 17.3         |
 | [**18.404**](/18.404-fall-2021.html)     | **Theory of Computation**                                                    | U     | Michael Sipser                                   | 9.9         |
 | [**18.435**](/18.435-fall-2021.html)     | **Quantum Computation**                                                      | G     | Peter Shor                                       | 10.8        | 
