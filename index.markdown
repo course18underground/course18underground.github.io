@@ -16,4 +16,4 @@ We hope that students will find this project useful when registering for math su
 
 **Spring 2022 underground subject evaluations are [now available](/spring2022)!** 
 
-This project is in its pilot stages as of the past semester, and we hope to expand course offerings soon. Please see the [FAQ page](/FAQ) if you have any questions.
+Please see the [FAQ page](/FAQ) if you have any questions.
