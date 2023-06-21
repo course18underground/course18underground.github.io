@@ -35,20 +35,3 @@ Click on a course number in the table below to see detailed information and stud
 | [**18.904**](/18.904-spring-2022.html)   | **Seminar in Topology**                                        | U     | Zhiwei Yun, Iving Dai, Chun Hong Lo, Susan Ruff, Malcah Effron                                    | 8.8         |
 | [**18.906**](/18.906-spring-2022.html)   | **Algebraic Topology II**                                                    | G     | Paul Alfred Seidel                               | 9.9         |
 | [**18.950**](/18.950-spring-2022.html)   | **Differential Geometry**                                                    | G     | Paul Alfred Seidel                               | 9.9         |
-<!-- | Number                                   | Title          | Level | Instructor     | Total Hours |
-| :--------------------------------------- | :------------- | :---- | -------------- | ----------- |
-| [**18.100B**](/18.100B-spring-2021.html) | **Analysis I** | U     | Tobias Colding | 8.9         |
-| [**18.100B**](/18.100B-spring-2021.html) | **Analysis I** | U     | Tobias Colding | 8.9         |
-| [**18.100B**](/18.100B-spring-2021.html) | **Analysis I** | U     | Tobias Colding | 8.9         |
-| [**18.100B**](/18.100B-spring-2021.html) | **Analysis I** | U     | Tobias Colding | 8.9         |
-| [**18.100B**](/18.100B-spring-2021.html) | **Analysis I** | U     | Tobias Colding | 8.9         |
-| [**18.100B**](/18.100B-spring-2021.html) | **Analysis I** | U     | Tobias Colding | 8.9         |
-| [**18.100B**](/18.100B-spring-2021.html) | **Analysis I** | U     | Tobias Colding | 8.9         |
-| [**18.100B**](/18.100B-spring-2021.html) | **Analysis I** | U     | Tobias Colding | 8.9         |
-| [**18.100B**](/18.100B-spring-2021.html) | **Analysis I** | U     | Tobias Colding | 8.9         |
-| [**18.100B**](/18.100B-spring-2021.html) | **Analysis I** | U     | Tobias Colding | 8.9         |
-| [**18.100B**](/18.100B-spring-2021.html) | **Analysis I** | U     | Tobias Colding | 8.9         |
-| [**18.100B**](/18.100B-spring-2021.html) | **Analysis I** | U     | Tobias Colding | 8.9         | -->
-
-<!-- _For a PDF version of this semester's underground guide, click [**here**](/assets/files/Underground_Guide_Fall2020.pdf)._ -->
-
