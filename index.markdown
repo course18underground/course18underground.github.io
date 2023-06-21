@@ -14,6 +14,6 @@ Our goal is to serve undergrads and faculty in course 18 by compiling and record
 
 We hope that students will find this project useful when registering for math subjects and recitation sections, and that faculty will consider the feedback detailed here in planning future terms.
 
-**Fall 2021 underground subject evaluations are [now available](/fall2021)!** 
+**Spring 2022 underground subject evaluations are [now available](/spring2022)!** 
 
 This project is in its pilot stages as of the past semester, and we hope to expand course offerings soon. Please see the [FAQ page](/FAQ) if you have any questions.
