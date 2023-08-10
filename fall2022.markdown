@@ -1,0 +1,45 @@
+---
+layout: page
+title: Fall 2022
+permalink: /fall2022/
+has_children: true
+nav_order: 2
+has_toc: false
+---
+
+# Fall 2022
+
+Click on a course number in the table below to see detailed information and student feedback.
+
+| Number                                   | Title                                                                        | Level | Instructor                                       | Total Hours |
+| [**18.01**](/18.01-fall-2022.html)       | **Calculus**                                                                 | U     | Larry Guth                                       | 8.2         |
+| [**18.01A**](/18.01A-fall-2022.html)     | **Calculus**                                                                 | U     | David Jerison                                    | 13.2         |
+| [**18.02**](/18.02-fall-2022.html)       | **Calculus**                                                                 | U     | Jeremy Hahn                                      | 8.3        |
+| [**18.02A**](/18.02A-fall-2022.html)     | **Calculus**                                                                 | U     | John Bush                                        | 10.3         |          
+| [**18.022**](/18.022-fall-2022.html)     | **Calculus**                                                                 | U     | Alexei Borodin                                   | 8.7         |
+| [**18.03**](/18.03-fall-2022.html)       | **Differential Equations**                                                   | U     | Jorn Dunkel                                      | 8.9         |
+| [**18.06**](/18.06-fall-2022.html)       | **Linear Algebra**                                                           | U     | Steven Johnson                                   | 9.4         |
+| [**18.062**](/18.062-fall-2022.html)     | **Mathematics for Computer Science**                                         | U     | Zachary Abel (EECS)                    `         | 11.1         |
+| [**18.085**](/18.085-fall-2022.html)     | **Computational Science and Engineering I**                                  | U     | Pui Tung Choi                                    | 11.6        |
+| [**18.100A**](/18.100A-fall-2022html)    | **Real Analysis**                                                            | U     | Malo Jezequel                                    | 8.9         |
+| [**18.100B**](/18.100B-fall-2022html)    | **Real Analysis**                                                            | U     | Tobias Colding                                   | 7.1         |
+| [**18.112**](/18.112-fall-2022.html)     | **Functions of a Complex Variable**                                          | U     | Roman Bezrukavnikov                              | 9.3         |
+| [**18.155**](/18.155-fall-2022.html)     | **Differential Analysis I**                                                  | G     | Semyon Dyatlov                                   | 11.0         |
+| [**18.211**](/18.211-fall-2022.html)     | **Combinatorial Analysis**                                                   | U     | Anna Weigandt                                    | 10.2         |
+| [**18.404**](/18.404-fall-2022.html)     | **Theory of Computation**                                                    | U     | Michael Sipser                                   | 10.1         |
+| [**18.435**](/18.435-fall-2022.html)     | **Quantum Computation**                                                      | G     | Peter Shor                                       | 9.4        | 
+| [**18.600**](/18.600-fall-2022.html)     | **Probability and Random Variables**                                         | U     | Jonathan Kelner                                  | 8.9         |
+| [**18.642**](/18.642-fall-2022.html)     | **Topics in Mathematics with Applications in Finance**                       | U     | Peter Kempthorne                                 | 8.6         |
+| [**18.650**](/18.650-fall-2022.html)     | **Fundamentals of Statistics**                                               | U     | Philippe Rigollet                                | 11.9         | 
+| [**18.675**](/18.675-fall-2022.html)     | **Theory of Probability**                                                    | G     | Yair Shenfeld                                    | 14.2         | 
+| [**18.700**](/18.700-fall-2022.html)     | **Linear Algebra**                                                           | U     | Zhiwei Yun                                       | 10.0         |
+| [**18.701**](/18.701-fall-2022.html)     | **Algebra I**                                                                | U     | Henry Cohn                                       | 11.9         | 
+| [**18.705**](/18.705-fall-2022.html)     | **Commutative Algebra**                                                      | G     | Wei Zhang                                        | 8.6         |
+| [**18.745**](/18.745-fall-2022.html)     | **Lie Groups and Lie Algebras I**                                            | G     | Victor Kac                                       | 9.8         | 
+| [**18.785**](/18.785-fall-2022.html)     | **Number Theory I**                                                          | G     | Bjorn Poonen                                     | 11.2         | 
+| [**18.821**](/18.821-fall-2022.html)     | **Project Laboratory in Mathematics**                                        | U     | Andrei Negut                                     | 14.6         | 
+| [**18.901**](/18.901-fall-2022.html)     | **Introduction to Topology**                                                 | U     | Beibei Liu                                       | 9.0        |
+| [**18.905**](/18.905-fall-2022.html)     | **Algebraic Topology I**                                                     | G     | Daniel Alvarez-Gavela                            | 10.5        | 
+| [**18.965**](/18.965-fall-2022.html)     | **Geometry of Manifolds I**                                                  | G     | William Minicozzi                                | 9.7         |
+| [**18.994**](/18.994-fall-2022.html)     | **Seminar in Geometry**                                                      | U     | Deng Qin                                         | 9.9         |
+| [**18.C06**](/18.C06-fall-2022.html)     | **Linear Algebra and Optimization**                                          | U     | Ankur Moitra, Pablo Parrilo                      | 9.8         | 
