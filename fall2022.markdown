@@ -21,8 +21,8 @@ Click on a course number in the table below to see detailed information and stud
 | [**18.06**](/18.06-fall-2022.html)       | **Linear Algebra**                                                           | U     | Steven Johnson                                   | 9.4         |
 | [**18.062**](/18.062-fall-2022.html)     | **Mathematics for Computer Science**                                         | U     | Zachary Abel (EECS)                    `         | 11.1         |
 | [**18.085**](/18.085-fall-2022.html)     | **Computational Science and Engineering I**                                  | U     | Pui Tung Choi                                    | 11.6        |
-| [**18.100A**](/18.100A-fall-2022html)    | **Real Analysis**                                                            | U     | Malo Jezequel                                    | 8.9         |
-| [**18.100B**](/18.100B-fall-2022html)    | **Real Analysis**                                                            | U     | Tobias Colding                                   | 7.1         |
+| [**18.100A**](/18.100A-fall-2022.html)    | **Real Analysis**                                                            | U     | Malo Jezequel                                    | 8.9         |
+| [**18.100B**](/18.100B-fall-2022.html)    | **Real Analysis**                                                            | U     | Tobias Colding                                   | 7.1         |
 | [**18.112**](/18.112-fall-2022.html)     | **Functions of a Complex Variable**                                          | U     | Roman Bezrukavnikov                              | 9.3         |
 | [**18.155**](/18.155-fall-2022.html)     | **Differential Analysis I**                                                  | G     | Semyon Dyatlov                                   | 11.0         |
 | [**18.211**](/18.211-fall-2022.html)     | **Combinatorial Analysis**                                                   | U     | Anna Weigandt                                    | 10.2         |
