@@ -19,5 +19,5 @@ We have been running the project for two semesters so far! In future semesters, 
 This site and project are maintained by the [MIT Council for Math Majors](mailto:comm-all@mit.edu) and the [MIT Undergraduate Math Association](http://uma.mit.edu/).
 
 ### I have a question about this project that isn't answered here. Who should I contact?
-Please send all queries and comments to *math-underground **at** mit.edu*.
+Please send all queries and comments to *underground-guide **at** mit.edu*.
 
