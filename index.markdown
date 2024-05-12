@@ -7,7 +7,7 @@ nav_order: 1
 
 # Welcome to the **OLD** Course 18 Underground! 
 # We are under construction! Check out the new (updated) [website](https://course18guide.scripts.mit.edu/)! 
-# https://course18guide.scripts.mit.edu/
+# [https://course18guide.scripts.mit.edu/](https://course18guide.scripts.mit.edu/)
 
 ---
 
